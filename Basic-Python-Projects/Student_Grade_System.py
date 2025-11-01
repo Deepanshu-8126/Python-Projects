@@ -11,3 +11,5 @@ elif marks >= 40:
     grade = "D"
 else:
     grade = "Fail"
+
+print(f"{name} got {marks} marks and grade {grade}")

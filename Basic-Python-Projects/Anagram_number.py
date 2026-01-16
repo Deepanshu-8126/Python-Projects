@@ -1,4 +1,5 @@
 #anagram number 
+
 str1 = input("Enter first word: ")
 str2 = input("Enter second word: ")
 
